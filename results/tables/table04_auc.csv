@@ -1,0 +1,4 @@
+classifier,AUC
+Stage-1 dispersion,0.738
+Stage-2 residual (low convergence),0.695
+Dispersion + convergence,0.829

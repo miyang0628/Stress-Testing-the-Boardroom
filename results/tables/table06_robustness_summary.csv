@@ -1,0 +1,8 @@
+metric,mean,p5,p95
+Cohen d: Stage-1 dispersion (B vs C),-0.037,-0.538,0.442
+Cohen d: convergence index (B vs C),2.587,2.024,3.172
+AUC: dispersion only,0.765,0.682,0.84
+AUC: dispersion + convergence,0.864,0.787,0.927
+H1 recovered (share of seeds),1.0,,
+H2 recovered (share of seeds),1.0,,
+H3 recovered (share of seeds),1.0,,

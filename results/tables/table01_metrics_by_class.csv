@@ -1,0 +1,6 @@
+,disp1,disp1,disp2,disp2,viol1,viol1,viol2,viol2,conv_disp,conv_disp,conv_viol,conv_viol
+,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std
+gt_class,,,,,,,,,,,,
+A_consensus,0.903,0.236,0.511,0.233,0.286,0.091,0.216,0.094,0.428,0.206,0.237,0.216
+B_pluralism,1.263,0.28,0.388,0.107,0.383,0.067,0.257,0.078,0.682,0.101,0.331,0.141
+C_failure,1.279,0.267,0.77,0.223,0.373,0.079,0.329,0.074,0.394,0.146,0.11,0.147
